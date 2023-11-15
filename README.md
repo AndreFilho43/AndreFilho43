@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is André Filho and I'm a Data Engineer working as B.I from home, Brazil 🇧🇷.</h2>
+<h2 align="left">Hi 👋! My name is André Filho and I'm a B.I analyst working from home, Brazil 🇧🇷.</h2>
 
 ###
 
