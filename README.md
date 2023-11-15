@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently working on private projects in the Marketing Science area, with Python (Pandas & Scikit) for scraping and Power BI/Looker Studio for data visualization.</p>
+<p align="left">Currently working on private projects in Marketing Science, with Python (Pandas & Scikit) for scraping and Power BI/Looker Studio for data visualization.</p>
 
 ###
 
